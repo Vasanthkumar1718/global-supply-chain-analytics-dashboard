@@ -300,7 +300,7 @@ Global_Supply_Chain_Analysis
 
 # Home
 
-![Home](Screenshots/Home Page.png)
+![Home](Screenshots/Home.png)
 
 # Executive Overview
 
@@ -382,8 +382,8 @@ Global_Supply_Chain_Analysis
 
 **Author:** Vasanthkumar H S
 
-**LinkedIn:** *(linkedin.com/in/vasanthkumar-h-s-61bb5a291)*
+**LinkedIn:**--linkedin.com/in/vasanthkumar-h-s-61bb5a291
 
-**GitHub:** *((https://github.com/Vasanthkumar1718))*
+**GitHub:**--https://github.com/Vasanthkumar1718
 
 ---
