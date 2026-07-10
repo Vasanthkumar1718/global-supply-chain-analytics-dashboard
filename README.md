@@ -300,7 +300,7 @@ Global_Supply_Chain_Analysis
 
 # Home
 
-![Home](Screenshots/Home.png)
+![Home](Screenshots/Home Page.png)
 
 # Executive Overview
 
